@@ -7,7 +7,7 @@ Fiz o layout buscando deixar o mais fiél possível com os designs desktop e mob
 <img src="/fylo.gif">
 
 ## Desktop design
-<img width="800" height="500" src="design/desktop-preview.jpg">
+<img width="800" src="design/desktop-preview.jpg">
 
 ## Active states
 <img width="800" src="design/active-states.jpg">
