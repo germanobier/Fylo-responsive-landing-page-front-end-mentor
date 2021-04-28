@@ -540,6 +540,10 @@
         font-size: 80%;
         margin-left: 30px;
     }
+
+    form.after-content-r {
+        padding: 0;
+    }
 }
 
 @media (max-width: 360px) {
